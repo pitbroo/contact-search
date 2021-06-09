@@ -1,0 +1,9 @@
+header{
+    position: fixed;
+    width: 100%;
+    background: rgb(33,159,138);
+    background: linear-gradient(270deg, rgba(33,159,138,1) 41%, rgba(98,173,192,1) 100%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    z-index: 99;
+}
