@@ -1,3 +1,15 @@
 .main{
-    padding-top: 100px;
+    margin-top: 30px;
+}
+.contactsConteiner{
+    background-color: rgb(241, 241, 241);
+}
+.inputSearch{
+    width: 100%;
+    background-color: white;
+    min-height: 40px;
+}
+.loader{
+    margin: 20%;
+    text-align: center;
 }
